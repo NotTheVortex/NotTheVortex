@@ -17,7 +17,7 @@ Update: A new version of TheVortex has been released! Click here to read about i
 
 TheVortex is a bot that allows you to post memes on Discord. They're memes, or rather, memes that look like they come from Discord, with words and GIFs. So you can post memes such as the "D'oh!" ones, the "L"
 
-<h4><u>Context</u></h4>
+<h3><u>Context</u></h3>
 
 Funny enough, the about me above is all made up by a friend. Also remember, TheVortex: the Discord Meme bot is coming to a <strike>theatre</strike> <b><i>server*</i></b> near you!
 
