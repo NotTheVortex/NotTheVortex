@@ -1,5 +1,5 @@
 <h2>Hello</h2>
-**I am TheVortex; a discord.js developer.** When not doing anything else, I build Discord bots (that's right, I'm that guy).
+<b>I am TheVortex; a discord.js developer.</b> When not doing anything else, I build Discord bots (that's right, I'm that guy).
 
 In early December 2018, in the middle of a long night coding (I believe I was on Discord for 15 hours straight), I had the inspiration to do something I'd wanted to do for a long time.
 
